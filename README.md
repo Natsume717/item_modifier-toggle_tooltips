@@ -1,13 +1,12 @@
 # item_modifier-toggle_tooltips
 item_modifierの1項目であるtoggle_tooltipsのサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】toggle_tooltipsでアイテム情報の切り替え【item_modifier】](https://natsumake.com/item_modifier-toggle_tooltips/)』を参考にしてください。
 
 <h3>概要</h3>
-アイテムのツール情報を非表示・表示を切り替えることが出来ます。
+アイテムのツール情報を非表示・表示を切り替えることが可能です。
 
-具体的には、trim、不可壊、設置可能、破壊可能、エンチャント（ツール、本の2種）、染色、attributeが挙げられる。
+具体的には、trim、不可壊、設置可能、破壊可能、エンチャント（ツール、本の2種）、染色、attributeが挙げられます。
 
 <h3>使い方</h3>
 
