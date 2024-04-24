@@ -1,0 +1,2 @@
+# item_modifier-toggle_tooltips
+item_modifierの1項目であるtoggle_tooltipsのサンプルになります。
